@@ -43,6 +43,4 @@
 
 ---
 
-## 🌱 Portfólio em Desenvolvimento 🌱
-
-Estou constantemente aprendendo e aprimorando minhas habilidades. Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou projetos futuros!
+## 🌱 Antigo e Primeiro Portfólio 🌱
